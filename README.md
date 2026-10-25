@@ -1,8 +1,31 @@
 # Bloom — Your Study Buddy 🌱
 
-A friendly, motivating quiz study app for NPTEL *Public Speaking* (Weeks 1–12). Practice any combination of weeks in shuffled order, study at your own pace, and track real progress. Every question, answer and
-source reference comes **only** from the 12 solution PDFs. Nothing is invented or guessed.
+[![Live demo](https://img.shields.io/badge/live%20demo-bloom--study--app.vercel.app-4a4ccf?style=for-the-badge)](https://bloom-study-app.vercel.app/)
+![Next.js](https://img.shields.io/badge/Next.js-16-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6) ![Tailwind](https://img.shields.io/badge/Tailwind-4-38bdf8) ![Tests](https://img.shields.io/badge/tests-47%20passing-2e9e6b)
 
+**🔗 Live demo: https://bloom-study-app.vercel.app/**
+
+A friendly, motivating quiz study app for NPTEL *Public Speaking* (Weeks 1–12). Practice any combination of weeks in shuffled order, study at your own pace, and track real progress. Every question, answer and source reference comes **only** from the 12 solution PDFs. Nothing is invented or guessed.
+
+<p align="center">
+  <img src="docs/screenshots/home.png" alt="Home dashboard" width="62%" />
+  <img src="docs/screenshots/mobile-quiz.png" alt="Mobile quiz with feedback" width="26%" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/practice.png" alt="Practice setup" width="45%" />
+  <img src="docs/screenshots/results.png" alt="Session results" width="45%" />
+</p>
+
+## Features
+- **Practice:** choose any weeks (or all 12) and a question count; balanced shuffle, no repeats, exact scoring rules
+- **Study mode:** self-paced, reveal the answer when ready, bookmark tricky questions
+- **Review & progress:** bookmarks, marked-for-review, incorrect answers, per-week status, session history
+- **Verified answers:** each answer is read from the PDF (highlight / answer line / printed key) and cross-checked
+- **Source references:** every question shows its PDF file and page, with an "Open page" link
+- **Admin importer:** upload PDFs, inspect extraction, correct questionable items, export the dataset
+- **Accessible & responsive:** keyboard friendly, reduced-motion support, phone bottom-nav
+
+## Stack
 - Next.js (App Router) · TypeScript · Tailwind CSS v4 · Lucide icons · mupdf (WASM) for PDF reading · Vitest · Playwright
 - Student features: Home, Weeks, Practice (any weeks, shuffled, balanced), Study, Bookmarks/Review, Progress
 - Admin: `/admin` import & verification dashboard (upload PDFs, inspect, correct, export dataset)
