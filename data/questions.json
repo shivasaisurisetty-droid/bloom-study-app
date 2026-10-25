@@ -1,0 +1,4893 @@
+{
+  "generatedAt": "2026-10-25T15:53:53.405Z",
+  "weeks": [
+    {
+      "week": 1,
+      "file": "WEEK_1_ASSIGNMENT_1.pdf",
+      "heading": "Public Speaking 2026 · Assignment 1 Week 1",
+      "pages": 2,
+      "textChars": 1205,
+      "needsOcr": false,
+      "issues": []
+    },
+    {
+      "week": 2,
+      "file": "WEEK_2_ASSIGNMENT_2.pdf",
+      "heading": "Public Speaking 2026 · Week 2 Assignment 2",
+      "pages": 2,
+      "textChars": 1860,
+      "needsOcr": false,
+      "issues": []
+    },
+    {
+      "week": 3,
+      "file": "WEEK_3_ASSIGNMENT_3.pdf",
+      "heading": "Public Speaking · ASSIGNMENT III, JULY-OCTOBER 2026",
+      "pages": 2,
+      "textChars": 1627,
+      "needsOcr": false,
+      "issues": [
+        "Page 1: 1 non-yellow coloured fill(s) ignored."
+      ]
+    },
+    {
+      "week": 4,
+      "file": "WEEK_4_ASSIGNMENT_4.pdf",
+      "heading": "Public Speaking 2026 · Assignment 4 Week 4",
+      "pages": 2,
+      "textChars": 974,
+      "needsOcr": false,
+      "issues": []
+    },
+    {
+      "week": 5,
+      "file": "WEEK_5_ASSIGNMENT_5.pdf",
+      "heading": "ASSIGNMENT WEEK 5 · Public Speaking · July - October 2026",
+      "pages": 2,
+      "textChars": 1764,
+      "needsOcr": false,
+      "issues": []
+    },
+    {
+      "week": 6,
+      "file": "WEEK_6_ASSIGNMENT_6.pdf",
+      "heading": "PUBLIC SPEAKING · ASSIGNMENT VI, JULY-OCTOBER 2026 · Given below are some statements based on video lectures. Identify them and write",
+      "pages": 2,
+      "textChars": 1410,
+      "needsOcr": false,
+      "issues": [
+        "Page 1: 1 non-yellow coloured fill(s) ignored."
+      ]
+    },
+    {
+      "week": 7,
+      "file": "WEEK_7_ASSIGNMENT_7.pdf",
+      "heading": "Public Speaking 2026 · Assignment 7 Week 7",
+      "pages": 2,
+      "textChars": 859,
+      "needsOcr": false,
+      "issues": []
+    },
+    {
+      "week": 8,
+      "file": "WEEK_8_ASSIGNMENT_8.pdf",
+      "heading": "ASSIGNMENT WEEK 8 · Public Speaking · July - October 2026",
+      "pages": 2,
+      "textChars": 1947,
+      "needsOcr": false,
+      "issues": []
+    },
+    {
+      "week": 9,
+      "file": "WEEK_9_ASSIGNMENT_9.pdf",
+      "heading": "Public Speaking · ASSIGNMENT IX, JULY-OCTOBER 2026",
+      "pages": 2,
+      "textChars": 1829,
+      "needsOcr": false,
+      "issues": [
+        "Page 1: 1 non-yellow coloured fill(s) ignored."
+      ]
+    },
+    {
+      "week": 10,
+      "file": "WEEK_10_ASSIGNMENT_10.pdf",
+      "heading": "Assignment 10 Week 10",
+      "pages": 2,
+      "textChars": 971,
+      "needsOcr": false,
+      "issues": []
+    },
+    {
+      "week": 11,
+      "file": "WEEK_11_ASSIGNMENT_11.pdf",
+      "heading": "Quiz Questions with Answers",
+      "pages": 2,
+      "textChars": 1834,
+      "needsOcr": false,
+      "issues": []
+    },
+    {
+      "week": 12,
+      "file": "WEEK_12_ASSIGNMENT_12.pdf",
+      "heading": "PUBLIC SPEAKING · ASSIGNMENT XII, JULY-OCTOBER 2026 · Given below are some statements based on video lectures. Identify them and write",
+      "pages": 2,
+      "textChars": 1824,
+      "needsOcr": false,
+      "issues": [
+        "Page 1: 1 non-yellow coloured fill(s) ignored."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "week": 1,
+      "section": "mcq",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_1_ASSIGNMENT_1.pdf",
+        "page": 1
+      },
+      "context": "“Speech is power: speech is to persuade, to convert, to compel” — this quote belongs\nto:\na) Abraham Lincoln b) Ralph Waldo Emerson c) Winston Churchill d) Aristotle",
+      "id": "w1-mcq-1",
+      "type": "single",
+      "text": "“Speech is power: speech is to persuade, to convert, to compel” — this quote belongs to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Abraham Lincoln"
+        },
+        {
+          "id": "B",
+          "text": "Ralph Waldo Emerson"
+        },
+        {
+          "id": "C",
+          "text": "Winston Churchill"
+        },
+        {
+          "id": "D",
+          "text": "Aristotle"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 1,
+      "section": "mcq",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_1_ASSIGNMENT_1.pdf",
+        "page": 1
+      },
+      "context": "Aristotle was a famous scholar and author of Rhetoric. He belonged to:\na) Rome b) Egypt c) Greece d) America",
+      "id": "w1-mcq-2",
+      "type": "single",
+      "text": "Aristotle was a famous scholar and author of Rhetoric. He belonged to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rome"
+        },
+        {
+          "id": "B",
+          "text": "Egypt"
+        },
+        {
+          "id": "C",
+          "text": "Greece"
+        },
+        {
+          "id": "D",
+          "text": "America"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): C."
+        ]
+      }
+    },
+    {
+      "week": 1,
+      "section": "mcq",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_1_ASSIGNMENT_1.pdf",
+        "page": 1
+      },
+      "context": "Public Speaking is:\na) A rare skill used only in formal settings\nb) An activity limited to politicians and leaders\nc) Not an everyday routine for most people\nd) A part of everyday personal and professional life",
+      "id": "w1-mcq-3",
+      "type": "single",
+      "text": "Public Speaking is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A rare skill used only in formal settings"
+        },
+        {
+          "id": "B",
+          "text": "An activity limited to politicians and leaders"
+        },
+        {
+          "id": "C",
+          "text": "Not an everyday routine for most people"
+        },
+        {
+          "id": "D",
+          "text": "A part of everyday personal and professional life"
+        }
+      ],
+      "correctOptionIds": [
+        "D"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): D."
+        ]
+      }
+    },
+    {
+      "week": 1,
+      "section": "mcq",
+      "number": 4,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_1_ASSIGNMENT_1.pdf",
+        "page": 1
+      },
+      "context": "Lack of clarity in chosen words is called:\na) Ambiguity b) Articulation c) Euphemism d) Verbosity",
+      "id": "w1-mcq-4",
+      "type": "single",
+      "text": "Lack of clarity in chosen words is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ambiguity"
+        },
+        {
+          "id": "B",
+          "text": "Articulation"
+        },
+        {
+          "id": "C",
+          "text": "Euphemism"
+        },
+        {
+          "id": "D",
+          "text": "Verbosity"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 1,
+      "section": "mcq",
+      "number": 5,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_1_ASSIGNMENT_1.pdf",
+        "page": 1
+      },
+      "context": "Deliberative Rhetoric is mainly used to:\na) Judge actions of the past\nb) Praise or blame a person\nc) Discuss and decide future actions\nd) Analyse literary texts",
+      "id": "w1-mcq-5",
+      "type": "single",
+      "text": "Deliberative Rhetoric is mainly used to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Judge actions of the past"
+        },
+        {
+          "id": "B",
+          "text": "Praise or blame a person"
+        },
+        {
+          "id": "C",
+          "text": "Discuss and decide future actions"
+        },
+        {
+          "id": "D",
+          "text": "Analyse literary texts"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): C."
+        ]
+      }
+    },
+    {
+      "week": 1,
+      "section": "fill-blank",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_1_ASSIGNMENT_1.pdf",
+        "page": 1
+      },
+      "context": "Fear of ______ is an interpersonal barrier. (motivation/criticism/decision/deliberation)",
+      "id": "w1-fib-1",
+      "type": "fill_blank",
+      "text": "Fear of ______ is an interpersonal barrier.",
+      "options": [
+        {
+          "id": "A",
+          "text": "motivation"
+        },
+        {
+          "id": "B",
+          "text": "criticism"
+        },
+        {
+          "id": "C",
+          "text": "decision"
+        },
+        {
+          "id": "D",
+          "text": "deliberation"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 1,
+      "section": "fill-blank",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_1_ASSIGNMENT_1.pdf",
+        "page": 1
+      },
+      "context": "According to ____________ Dictionary, Public Speaking is “the act or process of\nmaking speeches in public” or “the art of effective oral communication with the\naudience”. (Merriam Webster/Oxford/Cambridge/Blackwell)",
+      "id": "w1-fib-2",
+      "type": "fill_blank",
+      "text": "According to ____________ Dictionary, Public Speaking is “the act or process of making speeches in public” or “the art of effective oral communication with the audience”.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Merriam Webster"
+        },
+        {
+          "id": "B",
+          "text": "Oxford"
+        },
+        {
+          "id": "C",
+          "text": "Cambridge"
+        },
+        {
+          "id": "D",
+          "text": "Blackwell"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 1,
+      "section": "fill-blank",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_1_ASSIGNMENT_1.pdf",
+        "page": 1
+      },
+      "context": "“As I Walked Out One Evening” is a poem by __________. (John Donne/Stuart\nMill/Wilfred Owen/W.H. Auden)",
+      "id": "w1-fib-3",
+      "type": "fill_blank",
+      "text": "“As I Walked Out One Evening” is a poem by __________.",
+      "options": [
+        {
+          "id": "A",
+          "text": "John Donne"
+        },
+        {
+          "id": "B",
+          "text": "Stuart Mill"
+        },
+        {
+          "id": "C",
+          "text": "Wilfred Owen"
+        },
+        {
+          "id": "D",
+          "text": "W.H. Auden"
+        }
+      ],
+      "correctOptionIds": [
+        "D"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): D."
+        ]
+      }
+    },
+    {
+      "week": 1,
+      "section": "fill-blank",
+      "number": 4,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_1_ASSIGNMENT_1.pdf",
+        "page": 1
+      },
+      "context": "Hearing is a ________ process. (psychological/physiological/ emotional/factual)",
+      "id": "w1-fib-4",
+      "type": "fill_blank",
+      "text": "Hearing is a ________ process.",
+      "options": [
+        {
+          "id": "A",
+          "text": "psychological"
+        },
+        {
+          "id": "B",
+          "text": "physiological"
+        },
+        {
+          "id": "C",
+          "text": "emotional"
+        },
+        {
+          "id": "D",
+          "text": "factual"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 1,
+      "section": "fill-blank",
+      "number": 5,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_1_ASSIGNMENT_1.pdf",
+        "page": 2
+      },
+      "context": "Ethics is commonly interchanged with ________. (seniority/obesity/rhetoric/morality)",
+      "id": "w1-fib-5",
+      "type": "fill_blank",
+      "text": "Ethics is commonly interchanged with ________.",
+      "options": [
+        {
+          "id": "A",
+          "text": "seniority"
+        },
+        {
+          "id": "B",
+          "text": "obesity"
+        },
+        {
+          "id": "C",
+          "text": "rhetoric"
+        },
+        {
+          "id": "D",
+          "text": "morality"
+        }
+      ],
+      "correctOptionIds": [
+        "D"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): D."
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "section": "mcq",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_2_ASSIGNMENT_2.pdf",
+        "page": 1
+      },
+      "context": "Which of the following is NOT listed as a factor to analyse about an audience?\no Size of the audience\no Demographics (age, sex, background)\no Audience members' favorite foods\no Setting and seating arrangement\nAccepted Answers:\nAudience members' favorite foods",
+      "id": "w2-mcq-1",
+      "type": "single",
+      "text": "Which of the following is NOT listed as a factor to analyse about an audience?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Size of the audience"
+        },
+        {
+          "id": "B",
+          "text": "Demographics (age, sex, background)"
+        },
+        {
+          "id": "C",
+          "text": "Audience members' favorite foods"
+        },
+        {
+          "id": "D",
+          "text": "Setting and seating arrangement"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "accepted-answer-line",
+        "notes": [
+          "Answer from source (Accepted Answers line): C."
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "section": "mcq",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_2_ASSIGNMENT_2.pdf",
+        "page": 1
+      },
+      "context": "The audiences are those that seeks entertainment and connection __________ through\ncommunication.\no Emotive\no Directive\no Reflective\no Supportive\nAccepted Answers:\nEmotive",
+      "id": "w2-mcq-2",
+      "type": "single",
+      "text": "The audiences are those that seeks entertainment and connection __________ through communication.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Emotive"
+        },
+        {
+          "id": "B",
+          "text": "Directive"
+        },
+        {
+          "id": "C",
+          "text": "Reflective"
+        },
+        {
+          "id": "D",
+          "text": "Supportive"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "accepted-answer-line",
+        "notes": [
+          "Answer from source (Accepted Answers line): A."
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "section": "mcq",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_2_ASSIGNMENT_2.pdf",
+        "page": 1
+      },
+      "context": "The closing advice \"Know yourself and know your audience\" implies:\no Only focus on audience preferences and ignore your strengths\no Self-awareness combined with audience knowledge leads to more effective\ncommunication\no If you know yourself, audience analysis is unnecessary\no Always prioritize entertainers over informative content\nAccepted Answers:\nSelf-awareness combined with audience knowledge leads to more effective\ncommunication",
+      "id": "w2-mcq-3",
+      "type": "single",
+      "text": "The closing advice \"Know yourself and know your audience\" implies:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only focus on audience preferences and ignore your strengths"
+        },
+        {
+          "id": "B",
+          "text": "Self-awareness combined with audience knowledge leads to more effective communication"
+        },
+        {
+          "id": "C",
+          "text": "If you know yourself, audience analysis is unnecessary"
+        },
+        {
+          "id": "D",
+          "text": "Always prioritize entertainers over informative content"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "accepted-answer-line",
+        "notes": [
+          "Answer from source (Accepted Answers line): B."
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "section": "mcq",
+      "number": 4,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_2_ASSIGNMENT_2.pdf",
+        "page": 1
+      },
+      "context": "Monroe’s motivated sequence, begins with _________ step.\no Call to action\no Grab the attention\no Provide visual solutions\no Define the conclusion\nAccepted Answers:\nGrab the attention",
+      "id": "w2-mcq-4",
+      "type": "single",
+      "text": "Monroe’s motivated sequence, begins with _________ step.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Call to action"
+        },
+        {
+          "id": "B",
+          "text": "Grab the attention"
+        },
+        {
+          "id": "C",
+          "text": "Provide visual solutions"
+        },
+        {
+          "id": "D",
+          "text": "Define the conclusion"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "accepted-answer-line",
+        "notes": [
+          "Answer from source (Accepted Answers line): B."
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "section": "mcq",
+      "number": 5,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_2_ASSIGNMENT_2.pdf",
+        "page": 1
+      },
+      "context": "The __________ as a technological tool allows newsreaders to appear spontaneous\nwhile actually being aided.\no Presentation timer\no Teleprompter\no Interactive whiteboard\no Podcast platform\nAccepted Answers:\nTeleprompter",
+      "id": "w2-mcq-5",
+      "type": "single",
+      "text": "The __________ as a technological tool allows newsreaders to appear spontaneous while actually being aided.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Presentation timer"
+        },
+        {
+          "id": "B",
+          "text": "Teleprompter"
+        },
+        {
+          "id": "C",
+          "text": "Interactive whiteboard"
+        },
+        {
+          "id": "D",
+          "text": "Podcast platform"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "accepted-answer-line",
+        "notes": [
+          "Answer from source (Accepted Answers line): B."
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "section": "mcq",
+      "number": 6,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_2_ASSIGNMENT_2.pdf",
+        "page": 2
+      },
+      "context": "Relevance theory was first proposed by H. P . Grice.\no True\no False\nAccepted Answers:\nFalse",
+      "id": "w2-mcq-6",
+      "type": "true_false",
+      "text": "Relevance theory was first proposed by H. P . Grice.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "accepted-answer-line",
+        "notes": [
+          "Answer from source (Accepted Answers line): B."
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "section": "mcq",
+      "number": 7,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_2_ASSIGNMENT_2.pdf",
+        "page": 2
+      },
+      "context": "According to Sperber and Wilson’s Relevance Theory, communication is successful\nwhen a speaker minimizes the audience's __________.\no Cognitive effect\no Feedback loop\no Processing effort\no Vocal variety\nAccepted Answers:\nProcessing effort",
+      "id": "w2-mcq-7",
+      "type": "single",
+      "text": "According to Sperber and Wilson’s Relevance Theory, communication is successful when a speaker minimizes the audience's __________.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cognitive effect"
+        },
+        {
+          "id": "B",
+          "text": "Feedback loop"
+        },
+        {
+          "id": "C",
+          "text": "Processing effort"
+        },
+        {
+          "id": "D",
+          "text": "Vocal variety"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "accepted-answer-line",
+        "notes": [
+          "Answer from source (Accepted Answers line): C."
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "section": "mcq",
+      "number": 8,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_2_ASSIGNMENT_2.pdf",
+        "page": 2
+      },
+      "context": "Eloquence is a perennially valued skill that can help individuals survive crises and\ngain social recognition.\no True\no False\nAccepted Answers:\nTrue",
+      "id": "w2-mcq-8",
+      "type": "true_false",
+      "text": "Eloquence is a perennially valued skill that can help individuals survive crises and gain social recognition.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "accepted-answer-line",
+        "notes": [
+          "Answer from source (Accepted Answers line): A."
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "section": "mcq",
+      "number": 9,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_2_ASSIGNMENT_2.pdf",
+        "page": 2
+      },
+      "context": "Public speaking cannot contribute to professional advancement or leadership\nopportunities\no True\no False\nAccepted Answers:\nFalse",
+      "id": "w2-mcq-9",
+      "type": "true_false",
+      "text": "Public speaking cannot contribute to professional advancement or leadership opportunities",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "accepted-answer-line",
+        "notes": [
+          "Answer from source (Accepted Answers line): B."
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "section": "mcq",
+      "number": 10,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_2_ASSIGNMENT_2.pdf",
+        "page": 2
+      },
+      "context": "In public speaking, the \"Chronological Pattern\" organizes the subtopics and main\npoints based on physical space, geographical direction, or physical layout from left to right.\no True\no False\nAccepted Answers:\nFalse",
+      "id": "w2-mcq-10",
+      "type": "true_false",
+      "text": "In public speaking, the \"Chronological Pattern\" organizes the subtopics and main points based on physical space, geographical direction, or physical layout from left to right.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "accepted-answer-line",
+        "notes": [
+          "Answer from source (Accepted Answers line): B."
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "section": "fill-blank",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_3_ASSIGNMENT_3.pdf",
+        "page": 1
+      },
+      "context": "\nThe fear of speaking before an audience is commonly known as ___________\n(glossophobia/agoraphobia)",
+      "id": "w3-fib-1",
+      "type": "fill_blank",
+      "text": "The fear of speaking before an audience is commonly known as ___________",
+      "options": [
+        {
+          "id": "A",
+          "text": "glossophobia"
+        },
+        {
+          "id": "B",
+          "text": "agoraphobia"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "section": "fill-blank",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_3_ASSIGNMENT_3.pdf",
+        "page": 1
+      },
+      "context": "\nAccording to Vygotsky, ____________ plays a significant role in shaping human\nunderstanding of reality. (language/genetics)",
+      "id": "w3-fib-2",
+      "type": "fill_blank",
+      "text": "According to Vygotsky, ____________ plays a significant role in shaping human understanding of reality.",
+      "options": [
+        {
+          "id": "A",
+          "text": "language"
+        },
+        {
+          "id": "B",
+          "text": "genetics"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "section": "fill-blank",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_3_ASSIGNMENT_3.pdf",
+        "page": 1
+      },
+      "context": "\nGoleman’s Emotional Competence Framework broadly includes personal and\n_______________ competencies. (psychological/social)",
+      "id": "w3-fib-3",
+      "type": "fill_blank",
+      "text": "Goleman’s Emotional Competence Framework broadly includes personal and _______________ competencies.",
+      "options": [
+        {
+          "id": "A",
+          "text": "psychological"
+        },
+        {
+          "id": "B",
+          "text": "social"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "section": "fill-blank",
+      "number": 4,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_3_ASSIGNMENT_3.pdf",
+        "page": 1
+      },
+      "context": "\nCultures that rely heavily on implicit messages and non-verbal cues are called\n_____________ cultures. (high-context/low-context)",
+      "id": "w3-fib-4",
+      "type": "fill_blank",
+      "text": "Cultures that rely heavily on implicit messages and non-verbal cues are called _____________ cultures.",
+      "options": [
+        {
+          "id": "A",
+          "text": "high-context"
+        },
+        {
+          "id": "B",
+          "text": "low-context"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "section": "fill-blank",
+      "number": 5,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_3_ASSIGNMENT_3.pdf",
+        "page": 1
+      },
+      "context": "\nThe hormone associated with the body’s stress response during speech anxiety is\n_____________ . (epinephrine/adrenaline) [Both options are correct]",
+      "id": "w3-fib-5",
+      "type": "fill_blank",
+      "text": "The hormone associated with the body’s stress response during speech anxiety is _____________ .",
+      "options": [
+        {
+          "id": "A",
+          "text": "epinephrine"
+        },
+        {
+          "id": "B",
+          "text": "adrenaline"
+        }
+      ],
+      "correctOptionIds": [
+        "A",
+        "B"
+      ],
+      "acceptAny": true,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Source note: \"[Both options are correct]\" — either option is accepted.",
+          "Answer from source (highlight): A, B."
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "section": "mcq",
+      "number": 6,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_3_ASSIGNMENT_3.pdf",
+        "page": 1
+      },
+      "context": "Which of the following is NOT a component of anxiety?\nA. Cognitive component\nB. Somatic component\nC. Behavioural component\nD. Linguistic component",
+      "id": "w3-mcq-6",
+      "type": "single",
+      "text": "Which of the following is NOT a component of anxiety?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cognitive component"
+        },
+        {
+          "id": "B",
+          "text": "Somatic component"
+        },
+        {
+          "id": "C",
+          "text": "Behavioural component"
+        },
+        {
+          "id": "D",
+          "text": "Linguistic component"
+        }
+      ],
+      "correctOptionIds": [
+        "D"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): D."
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "section": "mcq",
+      "number": 7,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_3_ASSIGNMENT_3.pdf",
+        "page": 1
+      },
+      "context": "Deardorff's model of intercultural competence consists of how many elements?\nA. Three\nB. Four\nC. Five\nD. Six",
+      "id": "w3-mcq-7",
+      "type": "single",
+      "text": "Deardorff's model of intercultural competence consists of how many elements?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Three"
+        },
+        {
+          "id": "B",
+          "text": "Four"
+        },
+        {
+          "id": "C",
+          "text": "Five"
+        },
+        {
+          "id": "D",
+          "text": "Six"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): C."
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "section": "mcq",
+      "number": 8,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_3_ASSIGNMENT_3.pdf",
+        "page": 2
+      },
+      "context": "According to Mulac and Sherman, which of the following is among the elements of\nspeech fright?\nA. Dysfluency\nB. Adaptation\nC. Persuasion\nD. Observation",
+      "id": "w3-mcq-8",
+      "type": "single",
+      "text": "According to Mulac and Sherman, which of the following is among the elements of speech fright?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dysfluency"
+        },
+        {
+          "id": "B",
+          "text": "Adaptation"
+        },
+        {
+          "id": "C",
+          "text": "Persuasion"
+        },
+        {
+          "id": "D",
+          "text": "Observation"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "section": "mcq",
+      "number": 9,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_3_ASSIGNMENT_3.pdf",
+        "page": 2
+      },
+      "context": "Intercultural communication, according to Martin and Nakayama, is best described as:\nA. A one-way transfer of information\nB. An interactive experience between different cultures\nC. A method for cultural standardization\nD. A process of eliminating cultural differences",
+      "id": "w3-mcq-9",
+      "type": "single",
+      "text": "Intercultural communication, according to Martin and Nakayama, is best described as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A one-way transfer of information"
+        },
+        {
+          "id": "B",
+          "text": "An interactive experience between different cultures"
+        },
+        {
+          "id": "C",
+          "text": "A method for cultural standardization"
+        },
+        {
+          "id": "D",
+          "text": "A process of eliminating cultural differences"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "section": "mcq",
+      "number": 10,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_3_ASSIGNMENT_3.pdf",
+        "page": 2
+      },
+      "context": "Which of the following theorists is associated with the concept of Cultural Intelligence?\nA. Lev Vygotsky\nB. Geert Hofstede\nC. Christopher Earley and Soon Ang\nD. Daniel Goleman",
+      "id": "w3-mcq-10",
+      "type": "single",
+      "text": "Which of the following theorists is associated with the concept of Cultural Intelligence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lev Vygotsky"
+        },
+        {
+          "id": "B",
+          "text": "Geert Hofstede"
+        },
+        {
+          "id": "C",
+          "text": "Christopher Earley and Soon Ang"
+        },
+        {
+          "id": "D",
+          "text": "Daniel Goleman"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): C."
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "section": "fill-blank",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_4_ASSIGNMENT_4.pdf",
+        "page": 1
+      },
+      "context": "________ is the currency of persuasion. (Agitation/Affection/Attention/Falsification)",
+      "id": "w4-fib-1",
+      "type": "fill_blank",
+      "text": "________ is the currency of persuasion.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agitation"
+        },
+        {
+          "id": "B",
+          "text": "Affection"
+        },
+        {
+          "id": "C",
+          "text": "Attention"
+        },
+        {
+          "id": "D",
+          "text": "Falsification"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): C."
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "section": "fill-blank",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_4_ASSIGNMENT_4.pdf",
+        "page": 1
+      },
+      "context": "________ is a way to grab attention and refresh the audience. (Divulsion/\nDigression/Disgrace/Diabolical)",
+      "id": "w4-fib-2",
+      "type": "fill_blank",
+      "text": "________ is a way to grab attention and refresh the audience.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Divulsion"
+        },
+        {
+          "id": "B",
+          "text": "Digression"
+        },
+        {
+          "id": "C",
+          "text": "Disgrace"
+        },
+        {
+          "id": "D",
+          "text": "Diabolical"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "section": "fill-blank",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_4_ASSIGNMENT_4.pdf",
+        "page": 1
+      },
+      "context": "_____ have always been a site of persuasion. (Stages/Solitude/Annoyance/\nAggression)",
+      "id": "w4-fib-3",
+      "type": "fill_blank",
+      "text": "_____ have always been a site of persuasion.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stages"
+        },
+        {
+          "id": "B",
+          "text": "Solitude"
+        },
+        {
+          "id": "C",
+          "text": "Annoyance"
+        },
+        {
+          "id": "D",
+          "text": "Aggression"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "section": "fill-blank",
+      "number": 4,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_4_ASSIGNMENT_4.pdf",
+        "page": 1
+      },
+      "context": "________ criticism is a component of classroom teaching-learning process.\n(Healthy/Harsh/Heroic/Hermeneutic)",
+      "id": "w4-fib-4",
+      "type": "fill_blank",
+      "text": "________ criticism is a component of classroom teaching-learning process.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Healthy"
+        },
+        {
+          "id": "B",
+          "text": "Harsh"
+        },
+        {
+          "id": "C",
+          "text": "Heroic"
+        },
+        {
+          "id": "D",
+          "text": "Hermeneutic"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "section": "fill-blank",
+      "number": 5,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_4_ASSIGNMENT_4.pdf",
+        "page": 1
+      },
+      "context": "John Dewey was an _______ educator and philosopher. (Austrian/Belgian/\nBritish/American)",
+      "id": "w4-fib-5",
+      "type": "fill_blank",
+      "text": "John Dewey was an _______ educator and philosopher.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Austrian"
+        },
+        {
+          "id": "B",
+          "text": "Belgian"
+        },
+        {
+          "id": "C",
+          "text": "British"
+        },
+        {
+          "id": "D",
+          "text": "American"
+        }
+      ],
+      "correctOptionIds": [
+        "D"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): D."
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "section": "mcq",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_4_ASSIGNMENT_4.pdf",
+        "page": 1
+      },
+      "context": "Digression is employed by the speaker for ________.\na. surprise effect\nb. nuisance\nc. continuous repetition\nd. jargon usage",
+      "id": "w4-mcq-1",
+      "type": "single",
+      "text": "Digression is employed by the speaker for ________.",
+      "options": [
+        {
+          "id": "A",
+          "text": "surprise effect"
+        },
+        {
+          "id": "B",
+          "text": "nuisance"
+        },
+        {
+          "id": "C",
+          "text": "continuous repetition"
+        },
+        {
+          "id": "D",
+          "text": "jargon usage"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "section": "mcq",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_4_ASSIGNMENT_4.pdf",
+        "page": 1
+      },
+      "context": "Which among the following options is not a type of dramatic speech?\na. Soliloquy\nb. Aside\nc. Silence\nd. Monologue",
+      "id": "w4-mcq-2",
+      "type": "single",
+      "text": "Which among the following options is not a type of dramatic speech?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Soliloquy"
+        },
+        {
+          "id": "B",
+          "text": "Aside"
+        },
+        {
+          "id": "C",
+          "text": "Silence"
+        },
+        {
+          "id": "D",
+          "text": "Monologue"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): C."
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "section": "mcq",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_4_ASSIGNMENT_4.pdf",
+        "page": 1
+      },
+      "context": "Dramatic Monologue has been used by:\na. Toru Dutt\nb. Lord Byron\nc. William Shakespeare\nd. Robert Browning",
+      "id": "w4-mcq-3",
+      "type": "single",
+      "text": "Dramatic Monologue has been used by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Toru Dutt"
+        },
+        {
+          "id": "B",
+          "text": "Lord Byron"
+        },
+        {
+          "id": "C",
+          "text": "William Shakespeare"
+        },
+        {
+          "id": "D",
+          "text": "Robert Browning"
+        }
+      ],
+      "correctOptionIds": [
+        "D"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): D."
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "section": "mcq",
+      "number": 4,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_4_ASSIGNMENT_4.pdf",
+        "page": 1
+      },
+      "context": "The basic principle of the classroom comprises ______ and democracy.\na. equity\nb. equality\nc. quality\nd. quantity",
+      "id": "w4-mcq-4",
+      "type": "single",
+      "text": "The basic principle of the classroom comprises ______ and democracy.",
+      "options": [
+        {
+          "id": "A",
+          "text": "equity"
+        },
+        {
+          "id": "B",
+          "text": "equality"
+        },
+        {
+          "id": "C",
+          "text": "quality"
+        },
+        {
+          "id": "D",
+          "text": "quantity"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "section": "mcq",
+      "number": 5,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_4_ASSIGNMENT_4.pdf",
+        "page": 2
+      },
+      "context": "Teaching has to be ________.\na. provocational\nb. unidirectional\nc. authoritative\nd. participatory",
+      "id": "w4-mcq-5",
+      "type": "single",
+      "text": "Teaching has to be ________.",
+      "options": [
+        {
+          "id": "A",
+          "text": "provocational"
+        },
+        {
+          "id": "B",
+          "text": "unidirectional"
+        },
+        {
+          "id": "C",
+          "text": "authoritative"
+        },
+        {
+          "id": "D",
+          "text": "participatory"
+        }
+      ],
+      "correctOptionIds": [
+        "D"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): D."
+        ]
+      }
+    },
+    {
+      "week": 5,
+      "section": "true-false",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_5_ASSIGNMENT_5.pdf",
+        "page": 1
+      },
+      "context": "Expressiveness, clarity, interaction, inclusiveness, and empathy are described as\nfundamental characteristics of effective lecturing. T",
+      "id": "w5-tf-1",
+      "type": "true_false",
+      "text": "Expressiveness, clarity, interaction, inclusiveness, and empathy are described as fundamental characteristics of effective lecturing.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer",
+        "notes": [
+          "Answer from source (printed answer): A."
+        ]
+      }
+    },
+    {
+      "week": 5,
+      "section": "true-false",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_5_ASSIGNMENT_5.pdf",
+        "page": 1
+      },
+      "context": "Freud is quoted as arguing that a person can keep all secrets through control of body\nlanguage. F",
+      "id": "w5-tf-2",
+      "type": "true_false",
+      "text": "Freud is quoted as arguing that a person can keep all secrets through control of body language.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer",
+        "notes": [
+          "Answer from source (printed answer): B."
+        ]
+      }
+    },
+    {
+      "week": 5,
+      "section": "true-false",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_5_ASSIGNMENT_5.pdf",
+        "page": 1
+      },
+      "context": "Edward T. Hall coined the term proxemics and discussed it in his book The Hidden\nDimension. T",
+      "id": "w5-tf-3",
+      "type": "true_false",
+      "text": "Edward T. Hall coined the term proxemics and discussed it in his book The Hidden Dimension.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer",
+        "notes": [
+          "Answer from source (printed answer): A."
+        ]
+      }
+    },
+    {
+      "week": 5,
+      "section": "fill-blank",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_5_ASSIGNMENT_5.pdf",
+        "page": 1
+      },
+      "context": "Violating someone's space (territory) can most likely trigger __________ (Increased\ncomprehension/ Flight or fight response/ Anxiety/ Anger)",
+      "id": "w5-fib-1",
+      "type": "fill_blank",
+      "text": "Violating someone's space (territory) can most likely trigger __________",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increased comprehension"
+        },
+        {
+          "id": "B",
+          "text": "Flight or fight response"
+        },
+        {
+          "id": "C",
+          "text": "Anxiety"
+        },
+        {
+          "id": "D",
+          "text": "Anger"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 5,
+      "section": "fill-blank",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_5_ASSIGNMENT_5.pdf",
+        "page": 1
+      },
+      "context": "The term Kinesics was first introduced in the year __________. (1956/\n1952/1953/1950)",
+      "id": "w5-fib-2",
+      "type": "fill_blank",
+      "text": "The term Kinesics was first introduced in the year __________.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1956"
+        },
+        {
+          "id": "B",
+          "text": "1952"
+        },
+        {
+          "id": "C",
+          "text": "1953"
+        },
+        {
+          "id": "D",
+          "text": "1950"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 5,
+      "section": "fill-blank",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_5_ASSIGNMENT_5.pdf",
+        "page": 1
+      },
+      "context": "Dr. Desmond Morris describes the __________ gesture as an unconscious sign that\na speaker might be lying or hiding something. (hand-to-face or mouth-guard/ leg\nscratching/ sweating/ eye-twitching)",
+      "id": "w5-fib-3",
+      "type": "fill_blank",
+      "text": "Dr. Desmond Morris describes the __________ gesture as an unconscious sign that a speaker might be lying or hiding something.",
+      "options": [
+        {
+          "id": "A",
+          "text": "hand-to-face or mouth-guard"
+        },
+        {
+          "id": "B",
+          "text": "leg scratching"
+        },
+        {
+          "id": "C",
+          "text": "sweating"
+        },
+        {
+          "id": "D",
+          "text": "eye-twitching"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 5,
+      "section": "mcq",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_5_ASSIGNMENT_5.pdf",
+        "page": 1
+      },
+      "context": "Which of the following is NOT one of the classifications of time discussed in the\nlecture?\nA. Social time\nB. Psychological time\nC. Technological time\nD. Biological time",
+      "id": "w5-mcq-1",
+      "type": "single",
+      "text": "Which of the following is NOT one of the classifications of time discussed in the lecture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Social time"
+        },
+        {
+          "id": "B",
+          "text": "Psychological time"
+        },
+        {
+          "id": "C",
+          "text": "Technological time"
+        },
+        {
+          "id": "D",
+          "text": "Biological time"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 5,
+      "section": "mcq",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_5_ASSIGNMENT_5.pdf",
+        "page": 1
+      },
+      "context": "The lecturer cites Sachs to claim that touch is:\nA. A modern addition to communication\nB. The foundation for communication with the world\nC. Less important than sight and hearing\nD. Only relevant in intimate relationships",
+      "id": "w5-mcq-2",
+      "type": "single",
+      "text": "The lecturer cites Sachs to claim that touch is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A modern addition to communication"
+        },
+        {
+          "id": "B",
+          "text": "The foundation for communication with the world"
+        },
+        {
+          "id": "C",
+          "text": "Less important than sight and hearing"
+        },
+        {
+          "id": "D",
+          "text": "Only relevant in intimate relationships"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 5,
+      "section": "mcq",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_5_ASSIGNMENT_5.pdf",
+        "page": 2
+      },
+      "context": "What term does Wright introduce to describe regimentation of people by time-\nkeeping, and what warning does the lecturer give about it?\nA. Chronotopia — that it leads to creative freedom\nB. Chronarchy — that humans should use time, not be ruled by it\nC. Chronometer — that clocks are unreliable\nD. Chronology — that history dictates punctuality",
+      "id": "w5-mcq-3",
+      "type": "single",
+      "text": "What term does Wright introduce to describe regimentation of people by time-keeping, and what warning does the lecturer give about it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chronotopia — that it leads to creative freedom"
+        },
+        {
+          "id": "B",
+          "text": "Chronarchy — that humans should use time, not be ruled by it"
+        },
+        {
+          "id": "C",
+          "text": "Chronometer — that clocks are unreliable"
+        },
+        {
+          "id": "D",
+          "text": "Chronology — that history dictates punctuality"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 5,
+      "section": "mcq",
+      "number": 4,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_5_ASSIGNMENT_5.pdf",
+        "page": 2
+      },
+      "context": "What distance range did the lecture give for the intimate zone (approximate)?\nA. 12 to 25 feet\nB. 4 to 12 feet\nC. 1.5 to 0.45 meters (approx.)\nD. 6 to 18 inches",
+      "id": "w5-mcq-4",
+      "type": "single",
+      "text": "What distance range did the lecture give for the intimate zone (approximate)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 to 25 feet"
+        },
+        {
+          "id": "B",
+          "text": "4 to 12 feet"
+        },
+        {
+          "id": "C",
+          "text": "1.5 to 0.45 meters (approx.)"
+        },
+        {
+          "id": "D",
+          "text": "6 to 18 inches"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): C."
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "section": "true-false",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_6_ASSIGNMENT_6.pdf",
+        "page": 1
+      },
+      "context": "\nDeductive reasoning proceeds from a general principle to a specific conclusion.\nT",
+      "id": "w6-tf-1",
+      "type": "true_false",
+      "text": "Deductive reasoning proceeds from a general principle to a specific conclusion.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "section": "true-false",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_6_ASSIGNMENT_6.pdf",
+        "page": 1
+      },
+      "context": "\nMeta-communication refers exclusively to communication about language used in\nliterary texts. F",
+      "id": "w6-tf-2",
+      "type": "true_false",
+      "text": "Meta-communication refers exclusively to communication about language used in literary texts.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "section": "true-false",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_6_ASSIGNMENT_6.pdf",
+        "page": 1
+      },
+      "context": "\nHoarseness occurs due to the passage of excess air through the vocal cords during\narticulation. F",
+      "id": "w6-tf-3",
+      "type": "true_false",
+      "text": "Hoarseness occurs due to the passage of excess air through the vocal cords during articulation.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "section": "true-false",
+      "number": 4,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_6_ASSIGNMENT_6.pdf",
+        "page": 1
+      },
+      "context": "\nPitch\nis\ndetermined\nby\nthe\nfrequency\nof\nvocal\ncord\nvibrations.\nT",
+      "id": "w6-tf-4",
+      "type": "true_false",
+      "text": "Pitch is determined by the frequency of vocal cord vibrations.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "section": "true-false",
+      "number": 5,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_6_ASSIGNMENT_6.pdf",
+        "page": 1
+      },
+      "context": "\nThe International Phonetic Alphabet (IPA) is primarily used for grammatical analysis.\nF",
+      "id": "w6-tf-5",
+      "type": "true_false",
+      "text": "The International Phonetic Alphabet (IPA) is primarily used for grammatical analysis.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "section": "mcq",
+      "number": 6,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_6_ASSIGNMENT_6.pdf",
+        "page": 1
+      },
+      "context": "Which of the following is a type of conversation identified by Adler?\nA. Political\nB. Practical\nC. Persuasive\nD. Narrative",
+      "id": "w6-mcq-6",
+      "type": "single",
+      "text": "Which of the following is a type of conversation identified by Adler?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Political"
+        },
+        {
+          "id": "B",
+          "text": "Practical"
+        },
+        {
+          "id": "C",
+          "text": "Persuasive"
+        },
+        {
+          "id": "D",
+          "text": "Narrative"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "section": "mcq",
+      "number": 7,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_6_ASSIGNMENT_6.pdf",
+        "page": 1
+      },
+      "context": "The study of graphemes and writing systems is known as:\nA. Graphology\nB. Graphonomics\nC. Graphemics\nD. Phonemics",
+      "id": "w6-mcq-7",
+      "type": "single",
+      "text": "The study of graphemes and writing systems is known as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Graphology"
+        },
+        {
+          "id": "B",
+          "text": "Graphonomics"
+        },
+        {
+          "id": "C",
+          "text": "Graphemics"
+        },
+        {
+          "id": "D",
+          "text": "Phonemics"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): C."
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "section": "mcq",
+      "number": 8,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_6_ASSIGNMENT_6.pdf",
+        "page": 1
+      },
+      "context": "The negotiation outcome termed as BATNA refers to:\nA. Basic Agreement Through Negotiated Action\nB. Best Alternative to a Negotiated Agreement\nC. Balanced Approach Towards Negotiated Arrangements\nD. Bilateral Agreement Through National Arbitration",
+      "id": "w6-mcq-8",
+      "type": "single",
+      "text": "The negotiation outcome termed as BATNA refers to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Basic Agreement Through Negotiated Action"
+        },
+        {
+          "id": "B",
+          "text": "Best Alternative to a Negotiated Agreement"
+        },
+        {
+          "id": "C",
+          "text": "Balanced Approach Towards Negotiated Arrangements"
+        },
+        {
+          "id": "D",
+          "text": "Bilateral Agreement Through National Arbitration"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "section": "mcq",
+      "number": 9,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_6_ASSIGNMENT_6.pdf",
+        "page": 2
+      },
+      "context": "Who is the author of the book Pragmatics of Human Communication?\nA. George Yule\nB. Gregory Bateson\nC. Noam Chomsky\nD. Paul Watzlawick",
+      "id": "w6-mcq-9",
+      "type": "single",
+      "text": "Who is the author of the book Pragmatics of Human Communication?",
+      "options": [
+        {
+          "id": "A",
+          "text": "George Yule"
+        },
+        {
+          "id": "B",
+          "text": "Gregory Bateson"
+        },
+        {
+          "id": "C",
+          "text": "Noam Chomsky"
+        },
+        {
+          "id": "D",
+          "text": "Paul Watzlawick"
+        }
+      ],
+      "correctOptionIds": [
+        "D"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): D."
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "section": "mcq",
+      "number": 10,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_6_ASSIGNMENT_6.pdf",
+        "page": 2
+      },
+      "context": "In English intonation, which pair of tones is commonly observed?\nA. Linear and Circular\nB. High and Low\nC. Rising and Falling\nD. Open and Closed",
+      "id": "w6-mcq-10",
+      "type": "single",
+      "text": "In English intonation, which pair of tones is commonly observed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Linear and Circular"
+        },
+        {
+          "id": "B",
+          "text": "High and Low"
+        },
+        {
+          "id": "C",
+          "text": "Rising and Falling"
+        },
+        {
+          "id": "D",
+          "text": "Open and Closed"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): C."
+        ]
+      }
+    },
+    {
+      "week": 7,
+      "section": "mcq",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_7_ASSIGNMENT_7.pdf",
+        "page": 1
+      },
+      "context": "Elocution is derived from the Latin word\na. electra\nb. elocutio\nc. election\nd. escalation",
+      "id": "w7-mcq-1",
+      "type": "single",
+      "text": "Elocution is derived from the Latin word",
+      "options": [
+        {
+          "id": "A",
+          "text": "electra"
+        },
+        {
+          "id": "B",
+          "text": "elocutio"
+        },
+        {
+          "id": "C",
+          "text": "election"
+        },
+        {
+          "id": "D",
+          "text": "escalation"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 7,
+      "section": "mcq",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_7_ASSIGNMENT_7.pdf",
+        "page": 1
+      },
+      "context": "The correct pronunciation of words is called\na. Orthoepy\nb. Orcoepy\nc. Onacology\nd. Osmalogy",
+      "id": "w7-mcq-2",
+      "type": "single",
+      "text": "The correct pronunciation of words is called",
+      "options": [
+        {
+          "id": "A",
+          "text": "Orthoepy"
+        },
+        {
+          "id": "B",
+          "text": "Orcoepy"
+        },
+        {
+          "id": "C",
+          "text": "Onacology"
+        },
+        {
+          "id": "D",
+          "text": "Osmalogy"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 7,
+      "section": "mcq",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_7_ASSIGNMENT_7.pdf",
+        "page": 1
+      },
+      "context": "According to Lukas, the three general criteria for judging speech are accuracy,\n_______ and audience’s interest.\na) correspondence\nb) control\nc) chaos\nd) clarity",
+      "id": "w7-mcq-3",
+      "type": "single",
+      "text": "According to Lukas, the three general criteria for judging speech are accuracy, _______ and audience’s interest.",
+      "options": [
+        {
+          "id": "A",
+          "text": "correspondence"
+        },
+        {
+          "id": "B",
+          "text": "control"
+        },
+        {
+          "id": "C",
+          "text": "chaos"
+        },
+        {
+          "id": "D",
+          "text": "clarity"
+        }
+      ],
+      "correctOptionIds": [
+        "D"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): D."
+        ]
+      }
+    },
+    {
+      "week": 7,
+      "section": "mcq",
+      "number": 4,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_7_ASSIGNMENT_7.pdf",
+        "page": 1
+      },
+      "context": "Debate is a ______ communication.\na. unilateral\nb. bilateral\nc. unidirectional\nd. multidirectional",
+      "id": "w7-mcq-4",
+      "type": "single",
+      "text": "Debate is a ______ communication.",
+      "options": [
+        {
+          "id": "A",
+          "text": "unilateral"
+        },
+        {
+          "id": "B",
+          "text": "bilateral"
+        },
+        {
+          "id": "C",
+          "text": "unidirectional"
+        },
+        {
+          "id": "D",
+          "text": "multidirectional"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 7,
+      "section": "mcq",
+      "number": 5,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_7_ASSIGNMENT_7.pdf",
+        "page": 1
+      },
+      "context": "A positive tone while remembering the deceased is appreciated in _______ speeches.\na. chaotic\nb. fanatic\nc. commemorative\nd. superlative",
+      "id": "w7-mcq-5",
+      "type": "single",
+      "text": "A positive tone while remembering the deceased is appreciated in _______ speeches.",
+      "options": [
+        {
+          "id": "A",
+          "text": "chaotic"
+        },
+        {
+          "id": "B",
+          "text": "fanatic"
+        },
+        {
+          "id": "C",
+          "text": "commemorative"
+        },
+        {
+          "id": "D",
+          "text": "superlative"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): C."
+        ]
+      }
+    },
+    {
+      "week": 7,
+      "section": "true-false",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_7_ASSIGNMENT_7.pdf",
+        "page": 2
+      },
+      "context": "Prefixes are generally accented. False",
+      "id": "w7-tf-1",
+      "type": "true_false",
+      "text": "Prefixes are generally accented.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 7,
+      "section": "true-false",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_7_ASSIGNMENT_7.pdf",
+        "page": 2
+      },
+      "context": "Falling tone signals the completion of a statement. True",
+      "id": "w7-tf-2",
+      "type": "true_false",
+      "text": "Falling tone signals the completion of a statement.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 7,
+      "section": "true-false",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_7_ASSIGNMENT_7.pdf",
+        "page": 2
+      },
+      "context": "Group discussion is a competitive platform. False",
+      "id": "w7-tf-3",
+      "type": "true_false",
+      "text": "Group discussion is a competitive platform.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 7,
+      "section": "true-false",
+      "number": 4,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_7_ASSIGNMENT_7.pdf",
+        "page": 2
+      },
+      "context": "Compound Rising is used to convey a warning (antithesis to interrogation). True",
+      "id": "w7-tf-4",
+      "type": "true_false",
+      "text": "Compound Rising is used to convey a warning (antithesis to interrogation).",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 7,
+      "section": "true-false",
+      "number": 5,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_7_ASSIGNMENT_7.pdf",
+        "page": 2
+      },
+      "context": "Manner is the native unquarried rock, whereas matter is the tool to transform it into ‘a\nsculptured palace’. False",
+      "id": "w7-tf-5",
+      "type": "true_false",
+      "text": "Manner is the native unquarried rock, whereas matter is the tool to transform it into ‘a sculptured palace’.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 8,
+      "section": "true-false",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_8_ASSIGNMENT_8.pdf",
+        "page": 1
+      },
+      "context": "Rod A. Martin’s four styles of humour mentioned are affiliative, self-enhancing,\naggressive, and self-defeating. T",
+      "id": "w8-tf-1",
+      "type": "true_false",
+      "text": "Rod A. Martin’s four styles of humour mentioned are affiliative, self-enhancing, aggressive, and self-defeating.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer",
+        "notes": [
+          "Answer from source (printed answer): A."
+        ]
+      }
+    },
+    {
+      "week": 8,
+      "section": "true-false",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_8_ASSIGNMENT_8.pdf",
+        "page": 1
+      },
+      "context": "The primary purpose of an exit interview is to gather candid feedback from a\ndeparting empl)oyee to identify organisational flaws and improve company culture. T",
+      "id": "w8-tf-2",
+      "type": "true_false",
+      "text": "The primary purpose of an exit interview is to gather candid feedback from a departing empl)oyee to identify organisational flaws and improve company culture.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer",
+        "notes": [
+          "Answer from source (printed answer): A."
+        ]
+      }
+    },
+    {
+      "week": 8,
+      "section": "true-false",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_8_ASSIGNMENT_8.pdf",
+        "page": 1
+      },
+      "context": "Pre-interview research is highlighted as an absolute necessity to construct relevant,\ncontextual answers and demonstrate genuine interest. T",
+      "id": "w8-tf-3",
+      "type": "true_false",
+      "text": "Pre-interview research is highlighted as an absolute necessity to construct relevant, contextual answers and demonstrate genuine interest.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer",
+        "notes": [
+          "Answer from source (printed answer): A."
+        ]
+      }
+    },
+    {
+      "week": 8,
+      "section": "true-false",
+      "number": 4,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_8_ASSIGNMENT_8.pdf",
+        "page": 1
+      },
+      "context": "The main goal of an unstructured interview is to scare the candidate and make them\nfeel defensive. F",
+      "id": "w8-tf-4",
+      "type": "true_false",
+      "text": "The main goal of an unstructured interview is to scare the candidate and make them feel defensive.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer",
+        "notes": [
+          "Answer from source (printed answer): B."
+        ]
+      }
+    },
+    {
+      "week": 8,
+      "section": "fill-blank",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_8_ASSIGNMENT_8.pdf",
+        "page": 1
+      },
+      "context": "Group interviews usually look out for the __________of the candidate. (leadership\nskills/ communication skills/ presentation skills/ dressing skills)",
+      "id": "w8-fib-1",
+      "type": "fill_blank",
+      "text": "Group interviews usually look out for the __________of the candidate.",
+      "options": [
+        {
+          "id": "A",
+          "text": "leadership skills"
+        },
+        {
+          "id": "B",
+          "text": "communication skills"
+        },
+        {
+          "id": "C",
+          "text": "presentation skills"
+        },
+        {
+          "id": "D",
+          "text": "dressing skills"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 8,
+      "section": "fill-blank",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_8_ASSIGNMENT_8.pdf",
+        "page": 1
+      },
+      "context": "The laddering framework is theoretically rooted in psychologist Kevin Olson’s\n__________ Chain Theory. (End-to-end/ Means-End/ Top-to-bottom/ right-to-left)",
+      "id": "w8-fib-2",
+      "type": "fill_blank",
+      "text": "The laddering framework is theoretically rooted in psychologist Kevin Olson’s __________ Chain Theory.",
+      "options": [
+        {
+          "id": "A",
+          "text": "End-to-end"
+        },
+        {
+          "id": "B",
+          "text": "Means-End"
+        },
+        {
+          "id": "C",
+          "text": "Top-to-bottom"
+        },
+        {
+          "id": "D",
+          "text": "right-to-left"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 8,
+      "section": "fill-blank",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_8_ASSIGNMENT_8.pdf",
+        "page": 1
+      },
+      "context": "The \"Row Boat Technique\" is a structural strategy candidates use to maintain\nbalance, rhythm, and __________ when responding to a panel. (Control/\nContract/expand/ relax)",
+      "id": "w8-fib-3",
+      "type": "fill_blank",
+      "text": "The \"Row Boat Technique\" is a structural strategy candidates use to maintain balance, rhythm, and __________ when responding to a panel.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Control"
+        },
+        {
+          "id": "B",
+          "text": "Contract"
+        },
+        {
+          "id": "C",
+          "text": "expand"
+        },
+        {
+          "id": "D",
+          "text": "relax"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 8,
+      "section": "mcq",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_8_ASSIGNMENT_8.pdf",
+        "page": 1
+      },
+      "context": "The lecturer warns of a hazard when companies use a \"one size fit\" approach in\nstructured interviews. What is that hazard?\nA. It becomes too costly\nB. It may be redundant or may not work in certain situations\nC. It increases interviewer bias\nD. It prevents follow-up questions",
+      "id": "w8-mcq-1",
+      "type": "single",
+      "text": "The lecturer warns of a hazard when companies use a \"one size fit\" approach in structured interviews. What is that hazard?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It becomes too costly"
+        },
+        {
+          "id": "B",
+          "text": "It may be redundant or may not work in certain situations"
+        },
+        {
+          "id": "C",
+          "text": "It increases interviewer bias"
+        },
+        {
+          "id": "D",
+          "text": "It prevents follow-up questions"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 8,
+      "section": "mcq",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_8_ASSIGNMENT_8.pdf",
+        "page": 1
+      },
+      "context": "The STAR method recommended for situational or behavioral interviews stands for:\nA. Situation, Task, Action, Result\nB. Strategy, Tactics, Analysis, Review\nC. Statement, Testimony, Argument, Response\nD. Survey, Test, Assess, Report",
+      "id": "w8-mcq-2",
+      "type": "single",
+      "text": "The STAR method recommended for situational or behavioral interviews stands for:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Situation, Task, Action, Result"
+        },
+        {
+          "id": "B",
+          "text": "Strategy, Tactics, Analysis, Review"
+        },
+        {
+          "id": "C",
+          "text": "Statement, Testimony, Argument, Response"
+        },
+        {
+          "id": "D",
+          "text": "Survey, Test, Assess, Report"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 8,
+      "section": "mcq",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_8_ASSIGNMENT_8.pdf",
+        "page": 2
+      },
+      "context": "Which nonverbal behaviors does the speaker explicitly recommend maintaining\nduring an interview?\nA. Frequent fidgeting and changing positions\nB. Avoiding eye contact to appear humble\nC. Careful dress, confident bearing, handshake when appropriate, and steady eye\ncontact\nD. Using many fillers like \"uh\" and \"um\" to sound natural",
+      "id": "w8-mcq-3",
+      "type": "single",
+      "text": "Which nonverbal behaviors does the speaker explicitly recommend maintaining during an interview?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frequent fidgeting and changing positions"
+        },
+        {
+          "id": "B",
+          "text": "Avoiding eye contact to appear humble"
+        },
+        {
+          "id": "C",
+          "text": "Careful dress, confident bearing, handshake when appropriate, and steady eye contact"
+        },
+        {
+          "id": "D",
+          "text": "Using many fillers like \"uh\" and \"um\" to sound natural"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): C."
+        ]
+      }
+    },
+    {
+      "week": 9,
+      "section": "fill-blank",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_9_ASSIGNMENT_9.pdf",
+        "page": 1
+      },
+      "context": "\nThe official written record of the proceedings and decisions of a meeting is known as\nthe ____________ of the meeting. (minutes/agenda)",
+      "id": "w9-fib-1",
+      "type": "fill_blank",
+      "text": "The official written record of the proceedings and decisions of a meeting is known as the ____________ of the meeting.",
+      "options": [
+        {
+          "id": "A",
+          "text": "minutes"
+        },
+        {
+          "id": "B",
+          "text": "agenda"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 9,
+      "section": "fill-blank",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_9_ASSIGNMENT_9.pdf",
+        "page": 1
+      },
+      "context": "\nThe leadership style characterized by extensive delegation of authority is known as\n____________ leadership. (transactional/laissez-faire)",
+      "id": "w9-fib-2",
+      "type": "fill_blank",
+      "text": "The leadership style characterized by extensive delegation of authority is known as ____________ leadership.",
+      "options": [
+        {
+          "id": "A",
+          "text": "transactional"
+        },
+        {
+          "id": "B",
+          "text": "laissez-faire"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 9,
+      "section": "fill-blank",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_9_ASSIGNMENT_9.pdf",
+        "page": 1
+      },
+      "context": "\nQuestions that seek personal opinions, experiences, and subjective responses are\ncalled ____________ questions. (open-ended/closed-ended)",
+      "id": "w9-fib-3",
+      "type": "fill_blank",
+      "text": "Questions that seek personal opinions, experiences, and subjective responses are called ____________ questions.",
+      "options": [
+        {
+          "id": "A",
+          "text": "open-ended"
+        },
+        {
+          "id": "B",
+          "text": "closed-ended"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 9,
+      "section": "fill-blank",
+      "number": 4,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_9_ASSIGNMENT_9.pdf",
+        "page": 1
+      },
+      "context": "\nThe Situational Leadership Theory was developed by Paul Hersey and\n____________. (Ken Blanchard/Marcus Kotter)",
+      "id": "w9-fib-4",
+      "type": "fill_blank",
+      "text": "The Situational Leadership Theory was developed by Paul Hersey and ____________.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ken Blanchard"
+        },
+        {
+          "id": "B",
+          "text": "Marcus Kotter"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 9,
+      "section": "fill-blank",
+      "number": 5,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_9_ASSIGNMENT_9.pdf",
+        "page": 1
+      },
+      "context": "\nA conference organized to resolve disputes and end hostilities between nations is\ncalled a ____________ conference. (settlement/peace)",
+      "id": "w9-fib-5",
+      "type": "fill_blank",
+      "text": "A conference organized to resolve disputes and end hostilities between nations is called a ____________ conference.",
+      "options": [
+        {
+          "id": "A",
+          "text": "settlement"
+        },
+        {
+          "id": "B",
+          "text": "peace"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 9,
+      "section": "mcq",
+      "number": 6,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_9_ASSIGNMENT_9.pdf",
+        "page": 1
+      },
+      "context": "Which of the following is most closely associated with Impression Management in\ncommunicative interactions?\nA. Self-promotion and positive relationship building\nB. Technical skill assessment only\nC. Avoidance of self-description\nD. Limiting communication with the interviewer",
+      "id": "w9-mcq-6",
+      "type": "single",
+      "text": "Which of the following is most closely associated with Impression Management in communicative interactions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Self-promotion and positive relationship building"
+        },
+        {
+          "id": "B",
+          "text": "Technical skill assessment only"
+        },
+        {
+          "id": "C",
+          "text": "Avoidance of self-description"
+        },
+        {
+          "id": "D",
+          "text": "Limiting communication with the interviewer"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 9,
+      "section": "mcq",
+      "number": 7,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_9_ASSIGNMENT_9.pdf",
+        "page": 1
+      },
+      "context": "Which of the following documents is prepared before a meeting takes place?\nA. Minutes\nB. Anticipation\nC. Agenda\nD. Memorandum",
+      "id": "w9-mcq-7",
+      "type": "single",
+      "text": "Which of the following documents is prepared before a meeting takes place?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Minutes"
+        },
+        {
+          "id": "B",
+          "text": "Anticipation"
+        },
+        {
+          "id": "C",
+          "text": "Agenda"
+        },
+        {
+          "id": "D",
+          "text": "Memorandum"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): C."
+        ]
+      }
+    },
+    {
+      "week": 9,
+      "section": "mcq",
+      "number": 8,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_9_ASSIGNMENT_9.pdf",
+        "page": 2
+      },
+      "context": "Which of the following is most closely associated with Transactional Leadership style?\nA. Shared vision\nB. Rewards and punishments\nC. Delegation without supervision\nD. Participative decision-making",
+      "id": "w9-mcq-8",
+      "type": "single",
+      "text": "Which of the following is most closely associated with Transactional Leadership style?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shared vision"
+        },
+        {
+          "id": "B",
+          "text": "Rewards and punishments"
+        },
+        {
+          "id": "C",
+          "text": "Delegation without supervision"
+        },
+        {
+          "id": "D",
+          "text": "Participative decision-making"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 9,
+      "section": "mcq",
+      "number": 9,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_9_ASSIGNMENT_9.pdf",
+        "page": 2
+      },
+      "context": "Virtual conferences are considered advantageous because they:\nA. Eliminate the need for technology\nB. Overcome geographical barriers\nC. Guarantee audience participation\nD. Remove communication challenges",
+      "id": "w9-mcq-9",
+      "type": "single",
+      "text": "Virtual conferences are considered advantageous because they:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eliminate the need for technology"
+        },
+        {
+          "id": "B",
+          "text": "Overcome geographical barriers"
+        },
+        {
+          "id": "C",
+          "text": "Guarantee audience participation"
+        },
+        {
+          "id": "D",
+          "text": "Remove communication challenges"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 9,
+      "section": "mcq",
+      "number": 10,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_9_ASSIGNMENT_9.pdf",
+        "page": 2
+      },
+      "context": "Which of the following is an essential characteristic of an unconference?\nA. Strict adherence to a formal structure\nB. Heavy dependence on written proceedings\nC. Flexible and less formal organization\nD. Judicial decision-making authority",
+      "id": "w9-mcq-10",
+      "type": "single",
+      "text": "Which of the following is an essential characteristic of an unconference?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Strict adherence to a formal structure"
+        },
+        {
+          "id": "B",
+          "text": "Heavy dependence on written proceedings"
+        },
+        {
+          "id": "C",
+          "text": "Flexible and less formal organization"
+        },
+        {
+          "id": "D",
+          "text": "Judicial decision-making authority"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): C."
+        ]
+      }
+    },
+    {
+      "week": 10,
+      "section": "mcq",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_10_ASSIGNMENT_10.pdf",
+        "page": 1
+      },
+      "context": "A leader is a forceful and ______ personality.\na. dynamic\nb. dubious\nc. timid\nd. tiresome",
+      "id": "w10-mcq-1",
+      "type": "single",
+      "text": "A leader is a forceful and ______ personality.",
+      "options": [
+        {
+          "id": "A",
+          "text": "dynamic"
+        },
+        {
+          "id": "B",
+          "text": "dubious"
+        },
+        {
+          "id": "C",
+          "text": "timid"
+        },
+        {
+          "id": "D",
+          "text": "tiresome"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 10,
+      "section": "mcq",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_10_ASSIGNMENT_10.pdf",
+        "page": 1
+      },
+      "context": "Audio-visual aids are also known as ______ material.\na. passive\nb. instructional\nc. institutional\nd. suggestive",
+      "id": "w10-mcq-2",
+      "type": "single",
+      "text": "Audio-visual aids are also known as ______ material.",
+      "options": [
+        {
+          "id": "A",
+          "text": "passive"
+        },
+        {
+          "id": "B",
+          "text": "instructional"
+        },
+        {
+          "id": "C",
+          "text": "institutional"
+        },
+        {
+          "id": "D",
+          "text": "suggestive"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 10,
+      "section": "mcq",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_10_ASSIGNMENT_10.pdf",
+        "page": 1
+      },
+      "context": "Who among the following is not an author of The Essentials of Leadership in\nGovernment?\na. Darryl Plecas\nb. Colette Squires\nc. Len Garis\nd. Lincoln Myers",
+      "id": "w10-mcq-3",
+      "type": "single",
+      "text": "Who among the following is not an author of The Essentials of Leadership in Government?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Darryl Plecas"
+        },
+        {
+          "id": "B",
+          "text": "Colette Squires"
+        },
+        {
+          "id": "C",
+          "text": "Len Garis"
+        },
+        {
+          "id": "D",
+          "text": "Lincoln Myers"
+        }
+      ],
+      "correctOptionIds": [
+        "D"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): D."
+        ]
+      }
+    },
+    {
+      "week": 10,
+      "section": "mcq",
+      "number": 4,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_10_ASSIGNMENT_10.pdf",
+        "page": 1
+      },
+      "context": "Which among these is not a basic type of listening:\na. Active listening\nb. Inactive listening\nc. Divisive listening\nd. Selective listening",
+      "id": "w10-mcq-4",
+      "type": "single",
+      "text": "Which among these is not a basic type of listening:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Active listening"
+        },
+        {
+          "id": "B",
+          "text": "Inactive listening"
+        },
+        {
+          "id": "C",
+          "text": "Divisive listening"
+        },
+        {
+          "id": "D",
+          "text": "Selective listening"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): C."
+        ]
+      }
+    },
+    {
+      "week": 10,
+      "section": "mcq",
+      "number": 5,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_10_ASSIGNMENT_10.pdf",
+        "page": 1
+      },
+      "context": "Which quality of voice is understood as the pectoral:\na. Low-pitched and slow\nb. Round and full\nc. The natural human voice\nd. Explosive resonance in the throat",
+      "id": "w10-mcq-5",
+      "type": "single",
+      "text": "Which quality of voice is understood as the pectoral:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low-pitched and slow"
+        },
+        {
+          "id": "B",
+          "text": "Round and full"
+        },
+        {
+          "id": "C",
+          "text": "The natural human voice"
+        },
+        {
+          "id": "D",
+          "text": "Explosive resonance in the throat"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 10,
+      "section": "true-false",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_10_ASSIGNMENT_10.pdf",
+        "page": 1
+      },
+      "context": "Innovative is one of the behavioural attributes of the BASICS model. True",
+      "id": "w10-tf-1",
+      "type": "true_false",
+      "text": "Innovative is one of the behavioural attributes of the BASICS model.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 10,
+      "section": "true-false",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_10_ASSIGNMENT_10.pdf",
+        "page": 2
+      },
+      "context": "According to Simon Ortis, “The only person who likes change is a baby with a wet\ndiaper”. False",
+      "id": "w10-tf-2",
+      "type": "true_false",
+      "text": "According to Simon Ortis, “The only person who likes change is a baby with a wet diaper”.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 10,
+      "section": "true-false",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_10_ASSIGNMENT_10.pdf",
+        "page": 2
+      },
+      "context": "Blackboard is an example of an audio aid in public speaking. False",
+      "id": "w10-tf-3",
+      "type": "true_false",
+      "text": "Blackboard is an example of an audio aid in public speaking.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 10,
+      "section": "true-false",
+      "number": 4,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_10_ASSIGNMENT_10.pdf",
+        "page": 2
+      },
+      "context": "Arbitrary is a word or phrase that connects the ideas of a speech and indicates the\nrelationship between them. False",
+      "id": "w10-tf-4",
+      "type": "true_false",
+      "text": "Arbitrary is a word or phrase that connects the ideas of a speech and indicates the relationship between them.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 10,
+      "section": "true-false",
+      "number": 5,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_10_ASSIGNMENT_10.pdf",
+        "page": 2
+      },
+      "context": "Audience awareness is an essential component of pre-presentation preparation. True",
+      "id": "w10-tf-5",
+      "type": "true_false",
+      "text": "Audience awareness is an essential component of pre-presentation preparation.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 11,
+      "section": "mcq",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_11_ASSIGNMENT_11.pdf",
+        "page": 1
+      },
+      "context": "The six C's of language discussed are clarity, colour, concreteness, correctness,\nconciseness, and cultural sensitivity.\n(A) True ✓\n(B) False\nAnswer: (A) True",
+      "id": "w11-mcq-1",
+      "type": "true_false",
+      "text": "The six C's of language discussed are clarity, colour, concreteness, correctness, conciseness, and cultural sensitivity.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "answer-line+marker",
+        "notes": [
+          "Answer from source (Answer line + ✓ marker): A."
+        ]
+      }
+    },
+    {
+      "week": 11,
+      "section": "mcq",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_11_ASSIGNMENT_11.pdf",
+        "page": 1
+      },
+      "context": "Jargon, euphemism, and Newspeak are elements that help bring clarity to public\nspeaking.\n(A) True\n(B) False ✓\nAnswer: (B) False",
+      "id": "w11-mcq-2",
+      "type": "true_false",
+      "text": "Jargon, euphemism, and Newspeak are elements that help bring clarity to public speaking.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "answer-line+marker",
+        "notes": [
+          "Answer from source (Answer line + ✓ marker): B."
+        ]
+      }
+    },
+    {
+      "week": 11,
+      "section": "mcq",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_11_ASSIGNMENT_11.pdf",
+        "page": 1
+      },
+      "context": "Christopher Turk's seven levers of persuasion are offered as tools to help speakers\novercome anxiety and win over critics.\n(A) True ✓\n(B) False\nAnswer: (A) True",
+      "id": "w11-mcq-3",
+      "type": "true_false",
+      "text": "Christopher Turk's seven levers of persuasion are offered as tools to help speakers overcome anxiety and win over critics.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "answer-line+marker",
+        "notes": [
+          "Answer from source (Answer line + ✓ marker): A."
+        ]
+      }
+    },
+    {
+      "week": 11,
+      "section": "mcq",
+      "number": 4,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_11_ASSIGNMENT_11.pdf",
+        "page": 1
+      },
+      "context": "Critical thinking and creative thinking are identical and interchangeable.\n(A) True\n(B) False ✓\nAnswer: (B) False",
+      "id": "w11-mcq-4",
+      "type": "true_false",
+      "text": "Critical thinking and creative thinking are identical and interchangeable.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "answer-line+marker",
+        "notes": [
+          "Answer from source (Answer line + ✓ marker): B."
+        ]
+      }
+    },
+    {
+      "week": 11,
+      "section": "mcq",
+      "number": 5,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_11_ASSIGNMENT_11.pdf",
+        "page": 1
+      },
+      "context": "George Yule, in his book The Study of Language, discusses the significance of\nlinguistic context, also termed ________ in speech.\n(A) Co-text ✓\n(B) Syntax\nAnswer: (A) Co-text",
+      "id": "w11-mcq-5",
+      "type": "single",
+      "text": "George Yule, in his book The Study of Language, discusses the significance of linguistic context, also termed ________ in speech.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Co-text"
+        },
+        {
+          "id": "B",
+          "text": "Syntax"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "answer-line+marker",
+        "notes": [
+          "Answer from source (Answer line + ✓ marker): A."
+        ]
+      }
+    },
+    {
+      "week": 11,
+      "section": "mcq",
+      "number": 6,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_11_ASSIGNMENT_11.pdf",
+        "page": 1
+      },
+      "context": "Deictic Expressions refer to those bits of language which can be understood or\ninterpreted only when the listener knows the ________ of the speaker.\n(A) immediate context; especially the physical context ✓\n(B) presupposition\nAnswer: (A) immediate context; especially the physical context",
+      "id": "w11-mcq-6",
+      "type": "single",
+      "text": "Deictic Expressions refer to those bits of language which can be understood or interpreted only when the listener knows the ________ of the speaker.",
+      "options": [
+        {
+          "id": "A",
+          "text": "immediate context; especially the physical context"
+        },
+        {
+          "id": "B",
+          "text": "presupposition"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "answer-line+marker",
+        "notes": [
+          "Answer from source (Answer line + ✓ marker): A."
+        ]
+      }
+    },
+    {
+      "week": 11,
+      "section": "mcq",
+      "number": 7,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_11_ASSIGNMENT_11.pdf",
+        "page": 1
+      },
+      "context": "The chief objective of a workshop is to add to the expertise of every participant by\n________.\n(A) practical work and training for new products, policies, or ideas ✓\n(B) by providing formal academic certification without practical activities\nAnswer: (A) practical work and training for new products, policies, or ideas",
+      "id": "w11-mcq-7",
+      "type": "single",
+      "text": "The chief objective of a workshop is to add to the expertise of every participant by ________.",
+      "options": [
+        {
+          "id": "A",
+          "text": "practical work and training for new products, policies, or ideas"
+        },
+        {
+          "id": "B",
+          "text": "by providing formal academic certification without practical activities"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "answer-line+marker",
+        "notes": [
+          "Answer from source (Answer line + ✓ marker): A."
+        ]
+      }
+    },
+    {
+      "week": 11,
+      "section": "mcq",
+      "number": 8,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_11_ASSIGNMENT_11.pdf",
+        "page": 2
+      },
+      "context": "According to McCrae and Costa's Five Factor model, the personality trait of\n________ is most highly correlated with creative thinking.\n(A) Agreeableness\n(B) Openness to experience ✓\nAnswer: (B) Openness to experience",
+      "id": "w11-mcq-8",
+      "type": "single",
+      "text": "According to McCrae and Costa's Five Factor model, the personality trait of ________ is most highly correlated with creative thinking.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness"
+        },
+        {
+          "id": "B",
+          "text": "Openness to experience"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "answer-line+marker",
+        "notes": [
+          "Answer from source (Answer line + ✓ marker): B."
+        ]
+      }
+    },
+    {
+      "week": 11,
+      "section": "mcq",
+      "number": 9,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_11_ASSIGNMENT_11.pdf",
+        "page": 2
+      },
+      "context": "Who propounded the linguistic relativity hypothesis?\n(A) Aristotle and Descartes\n(B) Sapir and Benjamin Lee Whorf ✓\n(C) Roman Jacobson and S.I. Hayakawa\n(D) Michael Osborne and Roy Peter Clark\nAnswer: (B) Sapir and Benjamin Lee Whorf",
+      "id": "w11-mcq-9",
+      "type": "single",
+      "text": "Who propounded the linguistic relativity hypothesis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aristotle and Descartes"
+        },
+        {
+          "id": "B",
+          "text": "Sapir and Benjamin Lee Whorf"
+        },
+        {
+          "id": "C",
+          "text": "Roman Jacobson and S.I. Hayakawa"
+        },
+        {
+          "id": "D",
+          "text": "Michael Osborne and Roy Peter Clark"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "answer-line+marker",
+        "notes": [
+          "Answer from source (Answer line + ✓ marker): B."
+        ]
+      }
+    },
+    {
+      "week": 11,
+      "section": "mcq",
+      "number": 10,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_11_ASSIGNMENT_11.pdf",
+        "page": 2
+      },
+      "context": "According to the lecture, which two components must creative thinking satisfy for\nideas to be valuable?\n(A) Originality and popularity\n(B) Originality and functionality ✓\n(C) Functionality and simplicity\n(D) Simplicity and popularity\nAnswer: (B) Originality and functionality",
+      "id": "w11-mcq-10",
+      "type": "single",
+      "text": "According to the lecture, which two components must creative thinking satisfy for ideas to be valuable?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Originality and popularity"
+        },
+        {
+          "id": "B",
+          "text": "Originality and functionality"
+        },
+        {
+          "id": "C",
+          "text": "Functionality and simplicity"
+        },
+        {
+          "id": "D",
+          "text": "Simplicity and popularity"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "answer-line+marker",
+        "notes": [
+          "Answer from source (Answer line + ✓ marker): B."
+        ]
+      }
+    },
+    {
+      "week": 12,
+      "section": "true-false",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_12_ASSIGNMENT_12.pdf",
+        "page": 1
+      },
+      "context": "\nIn a group interview, displaying individuality over team spirit is ideal when\ndescribing how colleagues perceive you. F",
+      "id": "w12-tf-1",
+      "type": "true_false",
+      "text": "In a group interview, displaying individuality over team spirit is ideal when describing how colleagues perceive you.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 12,
+      "section": "true-false",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_12_ASSIGNMENT_12.pdf",
+        "page": 1
+      },
+      "context": "\nAdvertising on social media should adhere to censorship procedures to maintain\ndecorum in online interactions. T",
+      "id": "w12-tf-2",
+      "type": "true_false",
+      "text": "Advertising on social media should adhere to censorship procedures to maintain decorum in online interactions.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 12,
+      "section": "true-false",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_12_ASSIGNMENT_12.pdf",
+        "page": 1
+      },
+      "context": "\nThe primary purpose of time stamping on social media is to identify the user who\ncreated the post. F",
+      "id": "w12-tf-3",
+      "type": "true_false",
+      "text": "The primary purpose of time stamping on social media is to identify the user who created the post.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 12,
+      "section": "true-false",
+      "number": 4,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_12_ASSIGNMENT_12.pdf",
+        "page": 1
+      },
+      "context": "\nWhen discussing weaknesses in an interview, the candidate should present them as\nsignificant flaws. F",
+      "id": "w12-tf-4",
+      "type": "true_false",
+      "text": "When discussing weaknesses in an interview, the candidate should present them as significant flaws.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 12,
+      "section": "true-false",
+      "number": 5,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_12_ASSIGNMENT_12.pdf",
+        "page": 1
+      },
+      "context": "\nPrivacy concerns in online communication arise due to the potential exposure of\npersonal information on social media. T",
+      "id": "w12-tf-5",
+      "type": "true_false",
+      "text": "Privacy concerns in online communication arise due to the potential exposure of personal information on social media.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "trailing-answer+highlight",
+        "notes": [
+          "Answer from source (printed answer + highlight): A."
+        ]
+      }
+    },
+    {
+      "week": 12,
+      "section": "mcq",
+      "number": 1,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_12_ASSIGNMENT_12.pdf",
+        "page": 1
+      },
+      "context": "Which of the following best describes the role of the ‘digital divide’ in modern\ncommunication?\nA) It separates online and offline advertisements\nB) It refers to the gap created by unequal access to technology and the Internet\nC) It defines the boundary between social media and news media\nD) It describes the time difference between posting and receiving content online",
+      "id": "w12-mcq-1",
+      "type": "single",
+      "text": "Which of the following best describes the role of the ‘digital divide’ in modern communication?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It separates online and offline advertisements"
+        },
+        {
+          "id": "B",
+          "text": "It refers to the gap created by unequal access to technology and the Internet"
+        },
+        {
+          "id": "C",
+          "text": "It defines the boundary between social media and news media"
+        },
+        {
+          "id": "D",
+          "text": "It describes the time difference between posting and receiving content online"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 12,
+      "section": "mcq",
+      "number": 2,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_12_ASSIGNMENT_12.pdf",
+        "page": 1
+      },
+      "context": "Among the five determining factors of the digital divide, which of the following is NOT\none of them?\nA) Availability\nB) Affordability\nC) Appearance\nD) Acceptability",
+      "id": "w12-mcq-2",
+      "type": "single",
+      "text": "Among the five determining factors of the digital divide, which of the following is NOT one of them?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Availability"
+        },
+        {
+          "id": "B",
+          "text": "Affordability"
+        },
+        {
+          "id": "C",
+          "text": "Appearance"
+        },
+        {
+          "id": "D",
+          "text": "Acceptability"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): C."
+        ]
+      }
+    },
+    {
+      "week": 12,
+      "section": "mcq",
+      "number": 3,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_12_ASSIGNMENT_12.pdf",
+        "page": 2
+      },
+      "context": "In the STAR technique for situational interview responses, what does the letter ‘S’ stand\nfor?\nA) Summary\nB) Situation\nC) Strength\nD) Skill",
+      "id": "w12-mcq-3",
+      "type": "single",
+      "text": "In the STAR technique for situational interview responses, what does the letter ‘S’ stand for?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Summary"
+        },
+        {
+          "id": "B",
+          "text": "Situation"
+        },
+        {
+          "id": "C",
+          "text": "Strength"
+        },
+        {
+          "id": "D",
+          "text": "Skill"
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): B."
+        ]
+      }
+    },
+    {
+      "week": 12,
+      "section": "mcq",
+      "number": 4,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_12_ASSIGNMENT_12.pdf",
+        "page": 2
+      },
+      "context": "Which interview format involves one interviewee being assessed by multiple interviewers\nsimultaneously?\nA) Group Interview\nB) Telephonic Interview\nC) Panel Interview\nD) Sectional Interview",
+      "id": "w12-mcq-4",
+      "type": "single",
+      "text": "Which interview format involves one interviewee being assessed by multiple interviewers simultaneously?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Group Interview"
+        },
+        {
+          "id": "B",
+          "text": "Telephonic Interview"
+        },
+        {
+          "id": "C",
+          "text": "Panel Interview"
+        },
+        {
+          "id": "D",
+          "text": "Sectional Interview"
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): C."
+        ]
+      }
+    },
+    {
+      "week": 12,
+      "section": "mcq",
+      "number": 5,
+      "explanation": null,
+      "source": {
+        "file": "WEEK_12_ASSIGNMENT_12.pdf",
+        "page": 2
+      },
+      "context": "Which famous speech was delivered by Swami Vivekananda in 1893 at the World’s\nParliament of Religions, introducing Hinduism, Vedanta, and Yoga to the Western world?\nA) The Gettysburg Address\nB) The Tilbury Speech\nC) “I Have a Dream” Speech\nD) The Chicago Address",
+      "id": "w12-mcq-5",
+      "type": "single",
+      "text": "Which famous speech was delivered by Swami Vivekananda in 1893 at the World’s Parliament of Religions, introducing Hinduism, Vedanta, and Yoga to the Western world?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Gettysburg Address"
+        },
+        {
+          "id": "B",
+          "text": "The Tilbury Speech"
+        },
+        {
+          "id": "C",
+          "text": "“I Have a Dream” Speech"
+        },
+        {
+          "id": "D",
+          "text": "The Chicago Address"
+        }
+      ],
+      "correctOptionIds": [
+        "D"
+      ],
+      "acceptAny": false,
+      "verification": {
+        "status": "verified",
+        "method": "highlight",
+        "notes": [
+          "Answer from source (highlight): D."
+        ]
+      }
+    }
+  ]
+}
